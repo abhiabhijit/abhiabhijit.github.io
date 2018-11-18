@@ -1,9 +1,0 @@
-{
-	"product_category" :
-	[
-	  { "categoryId": 1, "productCategory": "Electronics" },
-	  { "categoryId": 2, "productCategory": "Lifestyle" },
-	  { "categoryId": 3, "productCategory": "Fitness" },
-	  { "categoryId": 4, "productCategory": "Books" }
-	]
-}
